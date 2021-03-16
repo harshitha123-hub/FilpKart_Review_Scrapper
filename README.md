@@ -1,5 +1,7 @@
 # FilpKart_Review_Scrapper
 
+**App Deployed link : https://salty-fjord-86094.herokuapp.com/**
+
 Flask_app.py is created to run on local machine,we need to have a mongoDB database connection to run this code.
 
 app.py is created for deployment purpose.
